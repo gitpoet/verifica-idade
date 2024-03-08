@@ -1,0 +1,1 @@
+Uma página simples na qual um o usuário verifica a sua idade inserindo o ano de nascimento, assim como indicando o seu sexo. O programa exibe a idade, assim como uma foto correspondente à idade do usuário.
